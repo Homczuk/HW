@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="name_surname">Imie i nazwisko</string>
+    <string name="contact">Zmień kontakt</string>
+    <string name="sound_id">Zmień dźwięk</string>
+    <string name="accept_contact">accept</string>
+    <string name="cancel_contact">cancel</string>
+    <string name="accept_sound">accept</string>
+    <string name="cancel_sound">cancel</string>
+    <string name="todo">TODO</string>
+    <array name="Contacts">
+        <item>Jan Kowalski</item>
+        <item>Tadeusz </item>
+        <item>Jacek </item>
+        <item>Pepe The Frog</item>
+        <item>NotLikeThis</item>
+        <item>Contact 6</item>
+    </array>
+    <array name="Images">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+        <item>@drawable/image4</item>
+    </array>
+    <array name="Sounds">
+        <item>mario</item>
+        <item>ring01</item>
+        <item>ring02</item>
+        <item>ring03</item>
+        <item>ring04</item>
+        <item>ringd</item>
+    </array>
+</resources>
